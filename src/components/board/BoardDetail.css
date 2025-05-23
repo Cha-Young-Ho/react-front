@@ -1,0 +1,27 @@
+.board-detail {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 8px;
+  background: #f8fafc;
+}
+
+.board-detail h2 {
+  color: #1769aa;
+  margin-bottom: 12px;
+}
+
+.board-detail-title {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.board-detail-body {
+  margin-top: 10px;
+  white-space: pre-line;
+}
+
+.button-container {
+  text-align: right;
+  margin-top: 10px;
+}
